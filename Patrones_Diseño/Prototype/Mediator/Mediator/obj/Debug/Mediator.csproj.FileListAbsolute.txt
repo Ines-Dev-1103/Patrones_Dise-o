@@ -1,0 +1,3 @@
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Mediator\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\bin\Debug\Singelton2.exe.config
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\bin\Debug\Singelton2.exe
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\bin\Debug\Singelton2.pdb
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\obj\Debug\Singelton2.csproj.AssemblyReference.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\obj\Debug\Singelton2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\obj\Debug\Singelton2.csproj.CoreCompileInputs.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\obj\Debug\Singelton2.exe
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\singelton2\Singelton2\Singelton2\obj\Debug\Singelton2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Clara Ines\Desktop\Proyectos\Patrones_Diseño\Prototype\Prototype\Prototype\obj\Debug\Prototype.pdb
